@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Java"
+    url: /java/
+  - title: "Spring"
+    url: /spring/
+  - title: "DevOps"
+    url: /devops/
+  - title: "Review"
+    url: "/review/"
+  - title: "Algorithm"
+    url: /algorithm/
