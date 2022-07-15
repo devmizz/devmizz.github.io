@@ -10,3 +10,5 @@ main:
     url: "/review/"
   - title: "Algorithm"
     url: /algorithm/
+  - title: "Others"
+    url: /others/
